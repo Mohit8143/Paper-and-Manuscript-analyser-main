@@ -1,0 +1,7 @@
+streamlit
+google.generativeai
+python-dotenv
+altair==4.1.0
+
+# pip install googletrans==4.0.0-rc1 (run this in terminal if error occurs at the googletrans part)
+# Environment name - DataDynamo
